@@ -1,0 +1,1290 @@
+
+***2006-09-19 19:46:53***
+错误号=  6
+窗  口=  uo6_comm_kx21_tx
+对  象=  uo6_comm_kx21_tx
+事  件=  ue_comm
+行  号=  41
+信  息=  Invalid DataWindow row/column specified at line 41 in ue_comm event of object uo6_comm_kx21_tx.
+***2006-09-19 21:34:08***
+错误号=  14
+窗  口=  uo6_comm_laborman4
+对  象=  uo6_comm_laborman4
+事  件=  ue_comm
+行  号=  99
+信  息=  Error opening DLL library fsrv.dll for external function at line 99 in ue_comm event of object uo6_comm_laborman4.
+***2007-03-02 16:29:40***
+错误号=  7
+窗  口=  w_localinstr_setup_lisdec
+对  象=  w_localinstr_setup_lisdec
+事  件=  wf_load
+行  号=  6
+信  息=  Unresolvable external gn_dec when linking reference at line 6 in function wf_load of object w_localinstr_setup_lisdec.
+***2007-03-02 16:30:09***
+错误号=  7
+窗  口=  w_localinstr_setup_lisdec
+对  象=  w_localinstr_setup_lisdec
+事  件=  wf_load
+行  号=  6
+信  息=  Unresolvable external gn_dec when linking reference at line 6 in function wf_load of object w_localinstr_setup_lisdec.
+***2007-03-02 16:55:40***
+错误号=  21
+窗  口=  n_dec_base
+对  象=  n_dec_base
+事  件=  uf_initinstr
+行  号=  31
+信  息=  Bad runtime function reference at line 31 in function uf_initinstr of object n_dec_base.
+***2007-03-09 16:26:49***
+错误号=  6
+窗  口=  n_format_pos_lisdec
+对  象=  n_format_pos_lisdec
+事  件=  ue_decode_2
+行  号=  11
+信  息=  Invalid DataWindow row/column specified at line 11 in ue_decode_2 event of object n_format_pos_lisdec.
+***2007-03-09 16:46:46***
+错误号=  6
+窗  口=  n_format_pos_lisdec
+对  象=  n_format_pos_lisdec
+事  件=  ue_decode_2
+行  号=  12
+信  息=  Invalid DataWindow row/column specified at line 12 in ue_decode_2 event of object n_format_pos_lisdec.
+***2007-03-23 12:23:39***
+错误号=  2
+窗  口=  n_format_base_lisdec
+对  象=  n_format_base_lisdec
+事  件=  uf_addrecord_toform
+行  号=  11
+信  息=  Null object reference at line 11 in function uf_addrecord_toform of object n_format_base_lisdec.
+***2007-03-24 00:11:00***
+错误号=  2
+窗  口=  n_format_base_lisdec
+对  象=  n_format_base_lisdec
+事  件=  uf_addrecord_toform
+行  号=  11
+信  息=  Null object reference at line 11 in function uf_addrecord_toform of object n_format_base_lisdec.
+***2007-03-24 00:11:04***
+错误号=  2
+窗  口=  n_format_base_lisdec
+对  象=  n_format_base_lisdec
+事  件=  uf_addrecord_toform
+行  号=  11
+信  息=  Null object reference at line 11 in function uf_addrecord_toform of object n_format_base_lisdec.
+***2007-03-24 00:11:06***
+错误号=  2
+窗  口=  n_format_base_lisdec
+对  象=  n_format_base_lisdec
+事  件=  uf_addrecord_toform
+行  号=  11
+信  息=  Null object reference at line 11 in function uf_addrecord_toform of object n_format_base_lisdec.
+***2007-03-24 00:11:11***
+错误号=  2
+窗  口=  n_format_base_lisdec
+对  象=  n_format_base_lisdec
+事  件=  uf_addrecord_toform
+行  号=  11
+信  息=  Null object reference at line 11 in function uf_addrecord_toform of object n_format_base_lisdec.
+***2007-03-24 01:21:09***
+错误号=  6
+窗  口=  uo6_comm_free
+对  象=  uo6_comm_free
+事  件=  ue_comm
+行  号=  29
+信  息=  Invalid DataWindow row/column specified at line 29 in ue_comm event of object uo6_comm_free.
+***2007-03-24 12:31:09***
+错误号=  30
+窗  口=  w_base_lisdec
+对  象=  w_base_lisdec
+事  件=  ue_initinstr
+行  号=  36
+信  息=  Cannot find data type n_format_pos_lisdec at line 36 in ue_initinstr event of object w_base_lisdec.
+***2007-03-24 12:31:15***
+错误号=  30
+窗  口=  w_base_lisdec
+对  象=  w_base_lisdec
+事  件=  ue_initinstr
+行  号=  36
+信  息=  Cannot find data type n_format_pos_lisdec at line 36 in ue_initinstr event of object w_base_lisdec.
+***2007-03-24 12:32:47***
+错误号=  30
+窗  口=  w_base_lisdec
+对  象=  w_base_lisdec
+事  件=  ue_initinstr
+行  号=  36
+信  息=  Cannot find data type n_format_astm_lisdec at line 36 in ue_initinstr event of object w_base_lisdec.
+***2007-05-14 11:56:07***
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  close
+行  号=  8
+信  息=  Error accessing external object property state at line 8 in close event of object w_comm_test.
+***2007-06-08 13:51:29***
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  close
+行  号=  8
+信  息=  Error accessing external object property state at line 8 in close event of object w_comm_test.
+***2007-06-08 13:53:51***
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  close
+行  号=  8
+信  息=  Error accessing external object property state at line 8 in close event of object w_comm_test.
+***2007-06-12 16:19:16***
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  close
+行  号=  8
+信  息=  Error accessing external object property state at line 8 in close event of object w_comm_test.
+***2007-06-12 16:42:24***
+错误号=  7
+窗  口=  n_dec_base
+对  象=  n_dec_base
+事  件=  uf_astmoutput_r
+行  号=  33
+信  息=  Unresolvable external gl_no when linking reference at line 33 in function uf_astmoutput_r of object n_dec_base.
+***2008-09-22 11:21:24***
+错误号=  22
+窗  口=  w_dataautoin
+对  象=  shl_getdata
+事  件=  clicked
+行  号=  137
+信  息=  Unknown object type: uo6_comm_laboman4 at line 137 in clicked event of object shl_getdata of w_dataautoin.
+***2008-09-22 11:21:34***
+错误号=  22
+窗  口=  w_dataautoin
+对  象=  shl_getdata
+事  件=  clicked
+行  号=  137
+信  息=  Unknown object type: uo6_comm_laboman4 at line 137 in clicked event of object shl_getdata of w_dataautoin.
+***2008-09-22 12:17:54***
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2008-09-22 12:18:21***
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2008-09-22 12:18:51***
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2008-09-22 12:23:31***
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2008-09-22 13:16:19***
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  80
+信  息=  Error accessing external object property portopen at line 80 in function wf_comm_set of object w_comm_test.
+***2008-09-22 13:20:04***
+错误号=  22
+窗  口=  w_dataautoin
+对  象=  shl_getdata
+事  件=  clicked
+行  号=  137
+信  息=  Unknown object type: uo6_comm_laboman4 at line 137 in clicked event of object shl_getdata of w_dataautoin.
+***2008-09-22 14:39:39***
+错误号=  22
+窗  口=  w_dataautoin
+对  象=  shl_getdata
+事  件=  clicked
+行  号=  137
+信  息=  Unknown object type: uo6_comm_d360 at line 137 in clicked event of object shl_getdata of w_dataautoin.
+***2008-09-23 13:46:29***
+错误号=  65
+窗  口=  fun_check_version_password
+对  象=  fun_check_version_password
+事  件=  fun_check_version_password
+行  号=  11
+信  息=  Dynamic function not found. Possible causes include:
+pass by value/reference mismatch at line 11 in function fun_check_version_password of object fun_check_version_password.
+***2008-10-31 11:51:32***
+错误号=  6
+窗  口=  uo6_comm_sav
+对  象=  uo6_comm_sav
+事  件=  ue_comm
+行  号=  88
+信  息=  Invalid DataWindow row/column specified at line 88 in ue_comm event of object uo6_comm_sav.
+***2009-08-27 11:09:00***
+错误号=  6
+窗  口=  uo6_comm_bioer_lyfy
+对  象=  uo6_comm_bioer_lyfy
+事  件=  ue_comm
+行  号=  36
+信  息=  Invalid DataWindow row/column specified at line 36 in ue_comm event of object uo6_comm_bioer_lyfy.
+***2009-08-27 11:09:07***
+错误号=  6
+窗  口=  uo6_comm_bioer_lyfy
+对  象=  uo6_comm_bioer_lyfy
+事  件=  ue_comm
+行  号=  36
+信  息=  Invalid DataWindow row/column specified at line 36 in ue_comm event of object uo6_comm_bioer_lyfy.
+***2009-08-27 11:10:13***
+错误号=  6
+窗  口=  uo6_comm_bioer_lyfy
+对  象=  uo6_comm_bioer_lyfy
+事  件=  ue_comm
+行  号=  36
+信  息=  Invalid DataWindow row/column specified at line 36 in ue_comm event of object uo6_comm_bioer_lyfy.
+***2009-08-14 12:13:33***
+错误号=  12
+窗  口=  uo6_comm_wallac1420
+对  象=  uo6_comm_wallac1420
+事  件=  ue_comm
+行  号=  37
+信  息=  DataWindow column type does not match GetItem type at line 37 in ue_comm event of object uo6_comm_wallac1420.
+***2009-08-14 12:14:14***
+错误号=  12
+窗  口=  uo6_comm_wallac1420
+对  象=  uo6_comm_wallac1420
+事  件=  ue_comm
+行  号=  37
+信  息=  DataWindow column type does not match GetItem type at line 37 in ue_comm event of object uo6_comm_wallac1420.
+***2009-08-14 12:15:01***
+错误号=  12
+窗  口=  uo6_comm_wallac1420
+对  象=  uo6_comm_wallac1420
+事  件=  ue_comm
+行  号=  38
+信  息=  DataWindow column type does not match GetItem type at line 38 in ue_comm event of object uo6_comm_wallac1420.
+***2009-08-14 12:15:39***
+错误号=  12
+窗  口=  uo6_comm_wallac1420
+对  象=  uo6_comm_wallac1420
+事  件=  ue_comm
+行  号=  39
+信  息=  DataWindow column type does not match GetItem type at line 39 in ue_comm event of object uo6_comm_wallac1420.
+***2009-12-24 19:26:41***
+错误号=  6
+窗  口=  uo6_comm_semen
+对  象=  uo6_comm_semen
+事  件=  ue_comm
+行  号=  37
+信  息=  Invalid DataWindow row/column specified at line 37 in ue_comm event of object uo6_comm_semen.
+***2010-03-04 15:51:05***
+错误号=  14
+窗  口=  uo6_comm_laborman4
+对  象=  uo6_comm_laborman4
+事  件=  ue_comm
+行  号=  106
+信  息=  Error opening DLL library fsrv.dll for external function at line 106 in ue_comm event of object uo6_comm_laborman4.
+***2010-03-04 15:53:07***
+错误号=  14
+窗  口=  uo6_comm_laborman4
+对  象=  uo6_comm_laborman4
+事  件=  ue_comm
+行  号=  106
+信  息=  Error opening DLL library fsrv.dll for external function at line 106 in ue_comm event of object uo6_comm_laborman4.
+***2010-03-04 15:54:18***
+错误号=  14
+窗  口=  uo6_comm_laborman4
+对  象=  uo6_comm_laborman4
+事  件=  ue_comm
+行  号=  106
+信  息=  Error opening DLL library fsrv.dll for external function at line 106 in ue_comm event of object uo6_comm_laborman4.
+***2010-03-04 15:55:41***
+错误号=  14
+窗  口=  uo6_comm_laborman4
+对  象=  uo6_comm_laborman4
+事  件=  ue_comm
+行  号=  106
+信  息=  Error opening DLL library fsrv.dll for external function at line 106 in ue_comm event of object uo6_comm_laborman4.
+***2011-07-12 10:32:56***
+版本号=com5.100522（2010-05-22 10:22:24）
+错误号=  65
+窗  口=  fun_check_version_password_instr
+对  象=  fun_check_version_password_instr
+事  件=  fun_check_version_password_instr
+行  号=  11
+信  息=  Dynamic function not found. Possible causes include:
+pass by value/reference mismatch at line 11 in function fun_check_version_password_instr of object fun_check_version_password_instr.
+***2011-07-12 10:35:46***
+版本号=com5.100522（2010-05-22 10:22:24）
+错误号=  65
+窗  口=  fun_check_version_password_instr
+对  象=  fun_check_version_password_instr
+事  件=  fun_check_version_password_instr
+行  号=  11
+信  息=  Dynamic function not found. Possible causes include:
+pass by value/reference mismatch at line 11 in function fun_check_version_password_instr of object fun_check_version_password_instr.
+***2011-07-12 10:41:28***
+版本号=com5.100522（2010-05-22 10:22:24）
+错误号=  65
+窗  口=  fun_check_version_password_instr
+对  象=  fun_check_version_password_instr
+事  件=  fun_check_version_password_instr
+行  号=  11
+信  息=  Dynamic function not found. Possible causes include:
+pass by value/reference mismatch at line 11 in function fun_check_version_password_instr of object fun_check_version_password_instr.
+***2011-07-12 10:43:47***
+版本号=com5.100522（2010-05-22 10:22:24）
+错误号=  65
+窗  口=  fun_check_version_password_instr
+对  象=  fun_check_version_password_instr
+事  件=  fun_check_version_password_instr
+行  号=  11
+信  息=  Dynamic function not found. Possible causes include:
+pass by value/reference mismatch at line 11 in function fun_check_version_password_instr of object fun_check_version_password_instr.
+***2011-09-27 10:33:14***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  45
+信  息=  Error accessing external object property state at line 45 in function wf_comm_set of object w_comm_test.
+***2011-09-27 10:39:40***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-09-27 10:39:55***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-09-27 10:40:37***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2011-09-27 11:48:46***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-09-27 11:49:04***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2011-09-27 11:49:12***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-09-27 11:49:37***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2011-09-27 11:54:50***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-09-27 11:55:04***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-09-27 11:55:24***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-09-27 11:55:26***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-09-27 11:55:28***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-09-27 11:55:30***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-09-27 11:56:56***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-09-27 11:57:16***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-09-27 11:57:30***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2011-10-19 16:53:28***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-10-19 16:53:39***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-10-19 16:53:53***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2011-10-19 16:58:19***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-10-19 17:01:48***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-10-19 17:02:30***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-10-19 17:03:32***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2011-10-19 17:03:48***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2011-10-19 17:53:21***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2011-10-23 14:30:12***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2011-11-03 12:35:32***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2011-11-04 11:58:37***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2011-11-06 14:29:16***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2011-11-23 16:18:34***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2013-07-24 10:41:46***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-07-24 10:43:14***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-07-24 10:43:27***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-07-25 14:32:22***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-07-25 14:32:36***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-16 21:24:53***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-16 21:25:26***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_receive_deal
+行  号=  17
+信  息=  Null object reference at line 17 in function wf_receive_deal of object w_comm_test.
+***2013-08-16 21:27:40***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_receive_deal
+行  号=  17
+信  息=  Null object reference at line 17 in function wf_receive_deal of object w_comm_test.
+***2013-08-16 21:28:27***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-16 21:44:44***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_receive_deal
+行  号=  17
+信  息=  Null object reference at line 17 in function wf_receive_deal of object w_comm_test.
+***2013-08-16 21:49:13***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-16 22:50:40***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-16 22:50:47***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-16 23:09:35***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-16 23:10:21***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-16 23:10:27***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-16 23:12:14***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-16 23:12:20***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-16 23:13:49***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-16 23:14:00***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-16 23:17:07***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-19 10:18:34***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-19 10:18:41***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-19 10:21:55***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-19 10:22:18***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_receive_deal
+行  号=  17
+信  息=  Null object reference at line 17 in function wf_receive_deal of object w_comm_test.
+***2013-08-19 10:22:22***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-19 10:22:29***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-19 14:17:05***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-19 14:22:19***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-19 23:34:59***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-19 23:45:37***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-19 23:53:22***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-20 00:00:04***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-20 22:37:55***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-20 22:40:51***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-20 22:41:00***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-20 22:41:33***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  22
+窗  口=  w_dataautoin
+对  象=  shl_getdata
+事  件=  clicked
+行  号=  162
+信  息=  Unknown object type: uo6_comm_mythic22 at line 162 in clicked event of object shl_getdata of w_dataautoin.
+***2013-08-21 10:43:22***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-21 10:51:30***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-28 15:40:15***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  35
+信  息=  Error accessing external object property portopen at line 35 in function wf_comm_set of object w_comm_test.
+***2013-08-28 17:02:19***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-30 15:44:24***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:45:06***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:45:16***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:45:26***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:45:36***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:45:46***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:45:56***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:46:06***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:46:16***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 15:46:26***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 16:33:38***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 16:45:40***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 16:45:50***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-30 16:45:56***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 16:46:05***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 16:50:51***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 16:51:09***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-30 16:51:55***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 16:52:16***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_mdi_main
+对  象=  w_mdi_main
+事  件=  close
+行  号=  3
+信  息=  Null object reference at line 3 in close event of object w_mdi_main.
+***2013-08-30 16:52:32***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:00:21***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:01:29***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:02:06***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 16:56:37***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 16:56:47***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 16:56:57***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  timer
+行  号=  14
+信  息=  Null object reference at line 14 in timer event of object w_comm_test.
+***2013-08-30 17:00:31***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:11:38***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:12:15***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:14:06***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:29:43***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:30:20***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:39:23***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:42:05***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:45:57***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 17:47:51***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 20:08:36***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2013-08-30 20:15:12***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 20:18:13***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2013-08-30 20:18:26***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2013-08-30 20:24:08***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 21:13:18***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 21:13:43***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  2
+窗  口=  w_comm_test
+对  象=  ole_tcp
+事  件=  ocx_error
+行  号=  7
+信  息=  Null object reference at line 7 in ocx_error event of object ole_tcp of w_comm_test.
+***2013-08-30 21:15:09***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  35
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  wf_comm_set
+行  号=  50
+信  息=  Error calling external object function listen at line 50 in function wf_comm_set of object w_comm_test.
+***2013-08-30 21:24:14***
+版本号=com5.110412（2011-04-12 20:58:59）
+错误号=  22
+窗  口=  w_dataautoin
+对  象=  shl_getdata
+事  件=  clicked
+行  号=  162
+信  息=  Unknown object type: uo6_comm_bc5380 at line 162 in clicked event of object shl_getdata of w_dataautoin.
+***2013-12-17 15:54:27***
+版本号=com5.100522（2010-05-22 10:22:24）
+错误号=  39
+窗  口=  w_comm_test
+对  象=  w_comm_test
+事  件=  close
+行  号=  2
+信  息=  Error accessing external object property portopen at line 2 in close event of object w_comm_test.
